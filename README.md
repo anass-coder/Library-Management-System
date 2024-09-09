@@ -30,5 +30,5 @@ This project aims to create a database-driven Library Management System (LMS) to
 ## 5. Technologies:
 - **Database**: MySQL (for relational database management)
 - **Backend**: Python with MySQL Connector
-- **Optional Frontend**: Basic HTML interface (or use Python terminal-based interaction for the prototype)
+- **Optional Frontend**: HTML interface
 
