@@ -4,9 +4,9 @@ from datetime import date
 # MySQL connection configuration
 db = mysql.connector.connect(
     host="localhost",
-    user="root",  # Replace with your MySQL username
-    password="yourpassword",  # Replace with your MySQL password
-    database="library_management"  # Ensure this database exists
+    user="root",  # MySQL username
+    password="yourpassword",  # MySQL password
+    database="library_management"  #the database 
 )
 
 cursor = db.cursor()
